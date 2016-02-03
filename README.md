@@ -4,6 +4,7 @@
 A large dataset of avalanche incidents covering a variety of popular winter sports/ activities.
 
 Taken from the Colorado Avalanche Informatio Center.
+http://arc.lib.montana.edu/snow-science/item/1724
 
 http://avalanche.state.co.us/accidents/statistics-and-reporting/ (https://avalanche.state.co.us/wp-content/uploads/2015/09/Accidents_2015_Public.xlsx)
 
